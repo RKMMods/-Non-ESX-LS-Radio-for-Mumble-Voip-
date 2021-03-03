@@ -2,6 +2,7 @@
 This is a LS-Radio for Mumble Voip translated to english and re-coded for non-esx.
 
 RK Mods Rules and TOS
+
 Rules and TOS is Agreed to upon using/purchasing any product
 
 All Customers or Clients must follow these policies or they will be removed from this discord.
