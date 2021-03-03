@@ -1,6 +1,8 @@
 # -Non-ESX-LS-Radio-for-Mumble-Voip-
 This is a LS-Radio for Mumble Voip translated to english and re-coded for non-esx.
 
+this is the original script which I made to non esx: https://github.com/cadburry6969/ls-radio-mumble
+
 RK Mods Rules and TOS
 
 Rules and TOS is Agreed to upon using/purchasing any product
